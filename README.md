@@ -4,8 +4,8 @@ Unsupervised learning in trading involves using machine learning techniques to a
 Unlike Supervised learning, where the model is trained to make predictions, unsupervised learning focuses on extracting insights from data.
 
 This is how unsupervised learning is applied in trading
-Clustering
-Dimensionality Reduction
-Anamoly Detection
-Market Regime Detection
-Portfolio Optimization
+- Clustering
+- Dimensionality Reduction
+- Anamoly Detection
+- Market Regime Detection
+- Portfolio Optimization
